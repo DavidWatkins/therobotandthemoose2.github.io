@@ -32,11 +32,11 @@ layout: null
             <itunes:email>{{ site.email }}</itunes:email>
         </itunes:owner>
         <itunes:image href="{{ site.logo  | prepend: site.baseurl | prepend: site.url }}" />
-        <itunes:category text="Business">
-            <itunes:category text="Careers" />
+        <itunes:category text="Society & Culture">
+            <itunes:category text="Relationships" />
         </itunes:category>
-        <itunes:category text="Business">
-            <itunes:category text="Entrepreneurship" />
+        <itunes:category text="Leisure">
+            <itunes:category text="Hobbies" />
         </itunes:category>
         <itunes:type>episodic</itunes:type>
         <itunes:explicit>no</itunes:explicit>
