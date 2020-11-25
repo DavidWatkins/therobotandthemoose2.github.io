@@ -7,7 +7,7 @@ keywords:
 - Tinder
 - OK Cupid
 - Reddit
-mp3-url:      "/assets/audio/ep1.mp3"
+mp3-url:      "/assets/audio/ep1.1.mp3"
 episode-type: full  # "trailer" "full"
 explicit:     "no"
 block:        "no" # no means it is published
