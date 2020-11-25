@@ -52,7 +52,7 @@ layout: null
                 <enclosure url="{{ post.mp3-url | prepend: site.baseurl | prepend: site.url }}" length="1" type="audio/mp3"/>
                 <itunes:author>{{ site.author }}</itunes:author>
                 <itunes:summary><![CDATA[{{ post.content | strip_html | expand_urls: site.url | cdata_escape }}]]></itunes:summary>
-                <itunes:subtitle><![CDATA[{{ post.excerpt | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
+                <itunes:subtitle><![CDATA[{{ post.subtitle | strip_html | truncatewords: 50 | expand_urls: site.url | cdata_escape }}]]></itunes:subtitle>
                 <itunes:keywords>{{ post.keywords | join: "," }}</itunes:keywords>
                 <itunes:season>{{ post.season }}</itunes:season>
                 <itunes:episode>{{ post.episode }}</itunes:episode>
