@@ -14,9 +14,7 @@ block:        "no" # no means it is published
 layout: podcast
 excerpt_separator: <!--more-->
 ---
-Christina and David discuss online dating in 2020, as well as some stories of their collective bad experiences with the platforms
-<!--more-->
-Christina and David talk about the perils of online dating in 2020. All kinds of problems and struggles come up when trying to cast a wide net on a variety of dating apps and these two have probably seen a lot of them. Podcasts uploaded every Monday.
+Christina and David talk about the perils of online dating in 2020. All kinds of problems and struggles come up when trying to cast a wide net on a variety of dating apps and these two have probably seen a lot of them. Podcasts uploaded weekly.
 
 
 Spotify Podcasts: https://open.spotify.com/show/7qD0HipB75x11DhvE8Qc3T
